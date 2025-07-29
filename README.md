@@ -15,7 +15,7 @@ também estudo desenvolvimento web pela plataforma `Dio.me`.
   <img align="center" alt="LinkedIn" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 
-<a href="rose.amaral1995@gmail.com" target="_blank">
+<a href="mailto:rose.amaral1995@gmail.com" target="_blank">
   <img align="center" alt="Gmail" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
 </a><br>
 
