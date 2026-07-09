@@ -8,7 +8,7 @@ também estudo desenvolvimento web e análise de dados pela plataforma `Dio.me`.
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ## 📫 Contato
 
 <a href="https://www.linkedin.com/in/rosemary-amaral-2908592b1/" target="_blank">
